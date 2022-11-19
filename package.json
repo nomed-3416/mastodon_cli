@@ -23,6 +23,6 @@
     "electron": "^1.6.7",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "webpack": "^2.5.1"
+    "webpack": "^5.75.0"
   }
 }
